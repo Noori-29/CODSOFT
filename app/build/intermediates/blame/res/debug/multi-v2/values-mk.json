@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\NOORI\\Desktop\\Android-Attendance-App-master 3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mk\\values-mk.xml",
+            "outputFile": "C:\\Users\\DEll\\AndroidStudioProjects\\MAD_FinalProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mk\\values-mk.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\NOORI\\.gradle\\caches\\transforms-2\\files-2.1\\acedb5a439482afea3702661a6a2cc74\\support-compat-26.1.0\\res\\values-mk\\values-mk.xml",
+                    "source": "C:\\Users\\DEll\\.gradle\\caches\\transforms-2\\files-2.1\\acedb5a439482afea3702661a6a2cc74\\support-compat-26.1.0\\res\\values-mk\\values-mk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

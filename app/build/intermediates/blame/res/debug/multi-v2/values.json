@@ -1,17 +1,51 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\NOORI\\Desktop\\Android-Attendance-App-master 3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\DEll\\AndroidStudioProjects\\MAD_FinalProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\NOORI\\Desktop\\Android-Attendance-App-master 3\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\DEll\\AndroidStudioProjects\\MAD_FinalProject\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "116,59,170",
+                        "endColumns": "52,55,52",
+                        "endOffsets": "164,110,218"
+                    },
+                    "to": {
+                        "startLines": "53,54,55",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "3037,3090,3146",
+                        "endColumns": "52,55,52",
+                        "endOffsets": "3085,3141,3194"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DEll\\AndroidStudioProjects\\MAD_FinalProject\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "56",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "427",
+                        "endColumns": "56",
+                        "endOffsets": "479"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DEll\\AndroidStudioProjects\\MAD_FinalProject\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "6,15,19",
                         "startColumns": "4,4,4",
-                        "startOffsets": "186,510,671",
+                        "startOffsets": "192,525,690",
                         "endLines": "12,17,21",
                         "endColumns": "12,12,12",
-                        "endOffsets": "472,665,857"
+                        "endOffsets": "484,682,878"
                     },
                     "to": {
                         "startLines": "57,64,85",
@@ -23,13 +57,13 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\NOORI\\Desktop\\Android-Attendance-App-master 3\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\Users\\DEll\\AndroidStudioProjects\\MAD_FinalProject\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
                         "startLines": "7,16,5,3,4,12,9,11,8,14,13,10",
                         "startColumns": "0,0,4,4,4,0,0,0,0,0,0,0",
-                        "startOffsets": "197,515,154,56,103,396,283,360,243,479,435,324",
+                        "startOffsets": "204,531,159,59,107,408,292,371,251,493,448,334",
                         "endColumns": "45,45,45,46,50,38,40,35,39,34,43,35",
-                        "endOffsets": "242,560,195,98,149,434,323,395,282,513,478,359"
+                        "endOffsets": "249,576,200,101,153,446,332,406,290,527,491,369"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6,7,8,9,11,15,20,21",
@@ -40,7 +74,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\NOORI\\.gradle\\caches\\transforms-2\\files-2.1\\acedb5a439482afea3702661a6a2cc74\\support-compat-26.1.0\\res\\values\\values.xml",
+                    "source": "C:\\Users\\DEll\\.gradle\\caches\\transforms-2\\files-2.1\\acedb5a439482afea3702661a6a2cc74\\support-compat-26.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,53,54,58,59,60,6,15",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -59,41 +93,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\NOORI\\Desktop\\Android-Attendance-App-master 3\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+                    "source": "C:\\Users\\DEll\\AndroidStudioProjects\\MAD_FinalProject\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "56",
-                        "endOffsets": "107"
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
                     },
                     "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "427",
-                        "endColumns": "56",
-                        "endOffsets": "479"
+                        "startLines": "22,23",
+                        "startColumns": "4,4",
+                        "startOffsets": "1152,1210",
+                        "endColumns": "57,55",
+                        "endOffsets": "1205,1261"
                     }
                 },
                 {
-                    "source": "C:\\Users\\NOORI\\Desktop\\Android-Attendance-App-master 3\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "4,3,5",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "112,56,165",
-                        "endColumns": "52,55,52",
-                        "endOffsets": "160,107,213"
-                    },
-                    "to": {
-                        "startLines": "53,54,55",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "3037,3090,3146",
-                        "endColumns": "52,55,52",
-                        "endOffsets": "3085,3141,3194"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\NOORI\\.gradle\\caches\\transforms-2\\files-2.1\\971a5b69b89846008f16f9726686958d\\support-media-compat-26.1.0\\res\\values\\values.xml",
+                    "source": "C:\\Users\\DEll\\.gradle\\caches\\transforms-2\\files-2.1\\971a5b69b89846008f16f9726686958d\\support-media-compat-26.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -107,23 +124,6 @@
                         "startOffsets": "660,788,917,2907,4039,4215,4337,4599,4794",
                         "endColumns": "88,70,72,59,65,121,60,65,66",
                         "endOffsets": "744,854,985,2962,4100,4332,4393,4660,4856"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\NOORI\\Desktop\\Android-Attendance-App-master 3\\app\\src\\main\\res\\values\\dimens.xml",
-                    "from": {
-                        "startLines": "3,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "89,147",
-                        "endColumns": "57,55",
-                        "endOffsets": "142,198"
-                    },
-                    "to": {
-                        "startLines": "22,23",
-                        "startColumns": "4,4",
-                        "startOffsets": "1152,1210",
-                        "endColumns": "57,55",
-                        "endOffsets": "1205,1261"
                     }
                 }
             ]

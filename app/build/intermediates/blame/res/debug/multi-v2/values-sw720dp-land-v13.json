@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\NOORI\\Desktop\\Android-Attendance-App-master 3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+            "outputFile": "C:\\Users\\DEll\\AndroidStudioProjects\\MAD_FinalProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\NOORI\\Desktop\\Android-Attendance-App-master 3\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "source": "C:\\Users\\DEll\\AndroidStudioProjects\\MAD_FinalProject\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
                     "from": {
                         "startLines": "6",
                         "startColumns": "4",
-                        "startOffsets": "200",
+                        "startOffsets": "206",
                         "endColumns": "58",
-                        "endOffsets": "254"
+                        "endOffsets": "260"
                     },
                     "to": {
                         "startLines": "2",
